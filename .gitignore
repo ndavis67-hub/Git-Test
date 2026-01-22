@@ -1,0 +1,12 @@
+# Ignore compiled executable
+main
+
+# Ignore README file
+README.md~
+
+# Ignore Emacs backup files
+*~
+
+# Ignore object files
+*.o
+
